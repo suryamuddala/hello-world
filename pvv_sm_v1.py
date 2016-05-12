@@ -4,7 +4,7 @@ from scipy import stats
 import math
 import shutil
 
-
+## Location of files 
 Loc = "C:/Users/SURYA/Dropbox/video codec/"
 
 
